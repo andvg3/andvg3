@@ -9,10 +9,10 @@ I am an upcoming PhD student in Computer Vision and Robotics from [Mohamed bin Z
 
  **I am open to**:
 
-- any collaboration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- Collaboration work,
+- Computer Vision projects (development or research),
+- Research internships and
+- Available to become a reviewer for Machine Learning/Computer Vision journals or conferences.
 
 ## Skills:
 

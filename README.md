@@ -1,6 +1,6 @@
 ### Hi there, I'm [An Vuong](https://andvg3.github.io/) 👋
 
-I am an upcoming PhD student in Computer Vision and Robotics from [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), UAE. I love customizing Pythonic code for Machine Learning algorithms.
+I am a PhD student in Computer Vision and Robotics from [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), UAE. I love customizing Pythonic code for Machine Learning algorithms.
 
 **My Research Interest**:
 - Grasp Detection

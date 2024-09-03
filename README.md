@@ -55,8 +55,6 @@ I am a PhD student in Computer Vision and Robotics from [Mohamed bin Zayed Unive
 <p align = "center">
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://andvg3.github.io/)
-[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/andvwg3) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/an-vuong-360105205/)
 
 <!--  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andvg3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="An Vuong's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andvg3&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
